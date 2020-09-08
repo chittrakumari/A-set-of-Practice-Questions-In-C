@@ -1,5 +1,1 @@
-# include<stdio.h>
-void main()
-{
-  printf("hello world");
-}
+This repository contains a set of practice qusetions in C.
