@@ -1,1 +1,1 @@
-This repository contains a set of practice qusetions in C.
+This repository contains a set of practice questions in C.
